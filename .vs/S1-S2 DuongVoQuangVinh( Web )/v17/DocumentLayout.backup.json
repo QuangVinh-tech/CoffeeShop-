@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\migrations\\20260508065510_seeddata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\migrations\\20260508065510_seeddata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508065510_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508065510_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\migrations\\20260508033918_firstcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\migrations\\20260508033918_firstcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\migrations\\20260508032628_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\migrations\\20260508032628_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh( web )\\s1-s2 duongvoquangvinh( web )\\migrations\\20260508033015_createproductshopdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web ).csproj|solutionrelative:s1-s2 duongvoquangvinh( web )\\migrations\\20260508033015_createproductshopdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Models\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Models\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Models\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Models\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:27:31.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T01:52:25.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:22:28.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Models\\Services\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Models\\Services\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Models\\Services\\ProductRepository.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Models\\Services\\ProductRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA5wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:38:35.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260508065510_seeddata.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508065510_seeddata.Designer.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508065510_seeddata.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508065510_seeddata.Designer.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508065510_seeddata.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:31:35.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Program.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Program.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T01:30:52.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T07:22:21.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T03:32:25.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T03:22:59.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shop.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Views\\Product\\Shop.cshtml",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Views\\Product\\Shop.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Views\\Product\\Shop.cshtml",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Views\\Product\\Shop.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-08T02:57:33.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260508065510_seeddata.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508065510_seeddata.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508065510_seeddata.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508065510_seeddata.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508065510_seeddata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T06:55:10.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Properties\\launchSettings.json",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T01:30:10.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260508033918_FirstCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508033918_FirstCreate.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508033918_FirstCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508033918_FirstCreate.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508033918_FirstCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T03:39:18.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Models\\Product.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T01:33:50.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260508033015_CreateProductShopDB.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508033015_CreateProductShopDB.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508033015_CreateProductShopDB.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508033015_CreateProductShopDB.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508033015_CreateProductShopDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T03:30:15.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260508032628_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508032628_InitialCreate.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508032628_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508032628_InitialCreate.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Migrations\\20260508032628_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T03:26:28.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\appsettings.json",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\appsettings.json",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-08T01:30:42.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh( Web )\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh( Web )\\S1-S2 DuongVoQuangVinh( Web )\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh( Web )\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T01:33:28.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
