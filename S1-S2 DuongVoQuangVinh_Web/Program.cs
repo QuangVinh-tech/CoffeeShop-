@@ -6,20 +6,17 @@ using S1_S2_DuongVoQuangVinh__Web__.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
 builder.Services.AddControllersWithViews();
-
 
 builder.Services.AddScoped<IProductRepository,
     S1_S2_DuongVoQuangVinh__Web__.Repositories.ProductRepository>();
 
+builder.Services.AddScoped<IOrderRepository,OrderRepository>();
 
 builder.Services.AddScoped<IShoppingCartRepository>(sp =>
     ShoppingCartRepository.GetCart(sp));
 
-
 builder.Services.AddSession();
-
 
 builder.Services.AddHttpContextAccessor();
 

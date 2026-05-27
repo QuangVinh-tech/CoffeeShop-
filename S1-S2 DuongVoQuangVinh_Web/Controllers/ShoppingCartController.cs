@@ -22,11 +22,11 @@ namespace S1_S2_DuongVoQuangVinh__Web__.Controllers
             var items = shoppingCartRepository.GetAllShoppingCartItems();
             shoppingCartRepository.ShoppingCartItems = items;
 
-            // Bước 6: Truyền tổng tiền sang View qua ViewBag
+ 
             ViewBag.Total = shoppingCartRepository.GetShoppingCartTotal();
             ViewBag.Count = items.Count;
 
-            // Bước 9: Cập nhật số lượng sản phẩm trong giỏ lên Session
+           
             HttpContext.Session.SetInt32("CartCount", items.Count);
 
             return View(items);

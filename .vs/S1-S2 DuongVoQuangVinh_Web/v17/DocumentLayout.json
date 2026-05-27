@@ -7,57 +7,59 @@
       "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\views\\shared\\_product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\views\\orders\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\views\\orders\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\views\\orders\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\views\\product\\shop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\detail.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\models\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\models\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\shopping-cart.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\models\\services\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\models\\services\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\models\\interfaces\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\models\\interfaces\\ishoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\models\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\shipping.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\models\\services\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\migrations\\20260525025218_shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\migrations\\20260525025218_shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|c:\\users\\asus\\source\\repos\\s1-s2 duongvoquangvinh_web\\s1-s2 duongvoquangvinh_web\\migrations\\20260527012121_ordertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E978766A-6817-473B-A7EB-445485EAFD10}|S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web.csproj|solutionrelative:s1-s2 duongvoquangvinh_web\\migrations\\20260527012121_ordertbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,37 +69,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Product.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\_Product.cshtml",
-              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\_Product.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\_Product.cshtml",
-              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\_Product.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-25T04:24:16.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-25T04:15:01.369Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -107,87 +83,101 @@
               "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Views\\ShoppingCart\\Index.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\ShoppingCart\\Index.cshtml",
               "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Views\\ShoppingCart\\Index.cshtml",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAwIwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-25T04:14:58.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-25T04:11:37.066Z",
+              "WhenOpened": "2026-05-27T01:54:16.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Shop.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Product\\Shop.cshtml",
-              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Views\\Product\\Shop.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Product\\Shop.cshtml",
-              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Views\\Product\\Shop.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Models\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Models\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Models\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Models\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T01:08:43.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Orders\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Views\\Orders\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Orders\\Checkout.cshtml",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Views\\Orders\\Checkout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-25T04:11:01.044Z"
+              "WhenOpened": "2026-05-27T01:24:15.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutComplete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Orders\\CheckoutComplete.cshtml",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Views\\Orders\\CheckoutComplete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Orders\\CheckoutComplete.cshtml",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Views\\Orders\\CheckoutComplete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T01:38:32.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-27T01:29:15.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "detail.html",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\detail.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\detail.html",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\detail.html",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\detail.html",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAAAH8AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-05-25T04:04:03.087Z"
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Models\\Services\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Models\\Services\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Models\\Services\\OrderRepository.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Models\\Services\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T01:08:24.479Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Product\\Detail.cshtml",
-              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Views\\Product\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Product\\Detail.cshtml",
-              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Views\\Product\\Detail.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-11T01:40:13.239Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Program.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Program.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T01:34:56.659Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "shopping-cart.html",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\shopping-cart.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\shopping-cart.html",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\shopping-cart.html",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\shopping-cart.html",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAAALoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-05-25T03:12:04.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20260525025218_ShoppingCart.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Migrations\\20260525025218_ShoppingCart.cs",
-              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Migrations\\20260525025218_ShoppingCart.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Migrations\\20260525025218_ShoppingCart.cs",
-              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Migrations\\20260525025218_ShoppingCart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T02:52:18.385Z"
+              "WhenOpened": "2026-05-27T01:22:07.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Models\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Models\\Interfaces\\IProductRepository.cs",
@@ -195,67 +185,79 @@
               "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Models\\Interfaces\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T01:07:21.936Z"
+              "WhenOpened": "2026-05-27T01:39:46.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentIndex": 8,
+              "Title": "IShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Models\\Interfaces\\IShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Models\\Interfaces\\IShoppingCartRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Models\\Interfaces\\IShoppingCartRepository.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Models\\Interfaces\\IShoppingCartRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-25T01:36:04.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-25T01:36:06.388Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAIBQwDUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T01:05:44.164Z"
+              "WhenOpened": "2026-05-27T01:39:47.922Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB8AAAAuAAAAAAAAAA==",
+              "Title": "shipping.html",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\shipping.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\shipping.html",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\shipping.html",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\shipping.html",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-27T01:25:25.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA+wBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T01:11:58.07Z"
+              "WhenOpened": "2026-05-27T01:27:30.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260527012121_OrderTBL.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Migrations\\20260527012121_OrderTBL.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Migrations\\20260527012121_OrderTBL.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Migrations\\20260527012121_OrderTBL.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Migrations\\20260527012121_OrderTBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T01:21:21.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Models\\Services\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Models\\Services\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Models\\Services\\ProductRepository.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Models\\Services\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T01:10:24.092Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\index.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\index.html",
-              "ToolTip": "C:\\Users\\ASUS\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\index.html",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\Coffee Shop Template\\Coffee Shop Template\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-05-11T02:50:17.194Z"
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "S1-S2 DuongVoQuangVinh_Web\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\S1-S2 DuongVoQuangVinh_Web\\S1-S2 DuongVoQuangVinh_Web\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "S1-S2 DuongVoQuangVinh_Web\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T00:57:40.195Z"
             }
           ]
         }
